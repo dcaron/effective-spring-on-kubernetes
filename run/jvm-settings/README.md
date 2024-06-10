@@ -5,7 +5,7 @@ container.
 
 **Prerequisites** 
 
-* [Java 17 JDK](https://bell-sw.com/pages/downloads/)
+* [Java 21 JDK](https://bell-sw.com/pages/downloads/)
 * [Docker](https://www.docker.com/products/docker-desktop) 
 * [dive](https://github.com/wagoodman/dive) tool for exploring container layers 
 

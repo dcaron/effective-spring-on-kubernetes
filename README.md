@@ -7,7 +7,7 @@ has a `readme.md` that explains how to run the sample and points out interestnin
 
 ## Software Prerequisites
 
-* [Java 17 JDK](https://bell-sw.com/pages/downloads/)
+* [Java 21 JDK](https://bell-sw.com/pages/downloads/)
 * Favourite Java IDE [Eclipse Spring Tool Suite](https://spring.io/tools) or [IntelliJ](https://www.jetbrains.com/idea/download)
 * [Docker](https://www.docker.com/products/docker-desktop) 
 * [dive](https://github.com/wagoodman/dive) tool for exploring container layers 
@@ -18,7 +18,7 @@ has a `readme.md` that explains how to run the sample and points out interestnin
 
 * Clone the repo 
 * Go to the sample in `containerize/fatjar-dockerfile` 
-  * follow the steps for running the app this will ensure you have a working java 17 and maven.
+  * follow the steps for running the app this will ensure you have a working java 21 and maven.
   * import the application into your favourite IDE 
   * run the app from within the IDE 
 * Test your docker desktop Kubernetes using `kubectl get nodes` and you should see 1 node. On my machine 
