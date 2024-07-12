@@ -1,6 +1,6 @@
 # effective-spring-on-kubernetes
 
-Example applications show to use Spring Boot 3.3.0 on Kubernetes. There are two types of sample application in this repo. 
+Example applications show to use Spring Boot 3.3.1 on Kubernetes. There are two types of sample application in this repo. 
 Samples showing various approaches for containirzing Spring appliactions in the `containerize` folder. 
 Samples showing features for running spring applications on Kubernetes in `run` folder. Each sample application 
 has a `readme.md` that explains how to run the sample and points out interestning things to look at.
